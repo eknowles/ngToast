@@ -1,6 +1,7 @@
 {
   "name": "ngToast",
-  "version": "1.5.2",
+  "version": "2.0.0",
+  "private": true,
   "main": [
     "dist/ngToast.js",
     "dist/ngToast.css"
